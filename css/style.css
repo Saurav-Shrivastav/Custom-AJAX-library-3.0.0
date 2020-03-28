@@ -1,0 +1,15 @@
+h1{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-family: Helvetica;
+  border: 10px solid grey;
+  text-align: center;
+}
+
+.con{
+  font-family: Helvetica;
+  margin: none;
+  text-align: center;
+  font-weight: bold;
+}
